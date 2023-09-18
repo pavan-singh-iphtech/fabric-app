@@ -1,0 +1,36 @@
+canvas{
+    border: 1px solid black;
+}
+button{
+    border: none;
+    padding: 1rem 1rem;
+    font-size: 1rem;
+    font-weight: 700;
+    margin: 1rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn1{
+    background-color: rgb(191, 216, 238);
+    color: rgb(73, 71, 71);
+}
+.btn2{
+    background-color: rgb(251, 229, 200);
+    color: rgb(73, 71, 71);
+}
+.btn3{
+    background-color: rgb(180, 241, 241);
+    color: rgb(73, 71, 71);
+}
+.btn4{
+    background-color: rgb(184, 242, 223);
+    color: rgb(73, 71, 71);
+}
+.btn5{
+    background-color: azure;
+    color: rgb(73, 71, 71);
+}
+.btn6{
+    background-color: beige;
+    color: rgb(73, 71, 71);
+}
